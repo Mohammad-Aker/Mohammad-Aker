@@ -12,8 +12,6 @@ I'm currently in my 3rd year of studying<br>currently exploring swift, .NET and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Aker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Aker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohammad-Aker&limit=5&theme=alduin&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammad-Aker&icon=2&color=1)](https://visitcount.itsvg.in)
